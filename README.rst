@@ -1,7 +1,7 @@
-GitHub Classroom test exercise
-==============================
+GitHub test exercise
+====================
 
-This is a trivial exercise to get you started with GitHub Classroom. All you
+This is a trivial exercise to get you started with Git and GitHub. All you
 need to do is edit `exercise.txt` to replace `Hello World` with `Hello Mars!`
 Don't forget the exclamation mark.
 
